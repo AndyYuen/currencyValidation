@@ -82,10 +82,10 @@ public class RulesBean {
 		     map.put( obj.get("AlphabeticCode").toString(), obj.get("Currency").toString());
 
 		}
-		for (Entry<String, String> entry : currencyMap.entrySet()) {
+		for (Entry<String, String> entry : map.entrySet()) {
 		    System.out.println(entry.getKey() + ", " + entry.getValue());
 		}
-		System.out.println("No. of Entries: " + currencyMap.size());
+		System.out.println("No. of Entries: " + map.size());
 		currencyMap = map;
 	}
 	
