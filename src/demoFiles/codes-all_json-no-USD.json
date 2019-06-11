@@ -32,14 +32,6 @@
       "WithdrawalDate":null
    },
    {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"AMERICAN SAMOA",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
       "AlphabeticCode":"EUR",
       "Currency":"Euro",
       "Entity":"ANDORRA",
@@ -232,14 +224,6 @@
       "WithdrawalDate":null
    },
    {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"BONAIRE, SINT EUSTATIUS AND SABA",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
       "AlphabeticCode":"BAM",
       "Currency":"Convertible Mark",
       "Entity":"BOSNIA AND HERZEGOVINA",
@@ -269,14 +253,6 @@
       "Entity":"BRAZIL",
       "MinorUnit":"2",
       "NumericCode":986.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"BRITISH INDIAN OCEAN TERRITORY (THE)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  
@@ -448,6 +424,14 @@
       "WithdrawalDate":null
    },
    {  
+      "AlphabeticCode":"NZD",
+      "Currency":"New Zealand Dollar",
+      "Entity":"COOK ISLANDS (THE)",
+      "MinorUnit":"2",
+      "NumericCode":554.0,
+      "WithdrawalDate":null
+   },
+   {  
       "AlphabeticCode":"CRC",
       "Currency":"Costa Rican Colon",
       "Entity":"COSTA RICA",
@@ -544,14 +528,6 @@
       "WithdrawalDate":null
    },
    {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"ECUADOR",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
       "AlphabeticCode":"EGP",
       "Currency":"Egyptian Pound",
       "Entity":"EGYPT",
@@ -565,14 +541,6 @@
       "Entity":"EL SALVADOR",
       "MinorUnit":"2",
       "NumericCode":222.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"EL SALVADOR",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  
@@ -760,14 +728,6 @@
       "WithdrawalDate":null
    },
    {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"GUAM",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
       "AlphabeticCode":"GTQ",
       "Currency":"Quetzal",
       "Entity":"GUATEMALA",
@@ -813,14 +773,6 @@
       "Entity":"HAITI",
       "MinorUnit":"2",
       "NumericCode":332.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"HAITI",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  
@@ -1176,14 +1128,6 @@
       "WithdrawalDate":null
    },
    {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"MARSHALL ISLANDS (THE)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
       "AlphabeticCode":"EUR",
       "Currency":"Euro",
       "Entity":"MARTINIQUE",
@@ -1237,14 +1181,6 @@
       "Entity":"MEXICO",
       "MinorUnit":"2",
       "NumericCode":979.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"MICRONESIA (FEDERATED STATES OF)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  
@@ -1360,6 +1296,14 @@
       "WithdrawalDate":null
    },
    {  
+      "AlphabeticCode":"NZD",
+      "Currency":"New Zealand Dollar",
+      "Entity":"NEW ZEALAND",
+      "MinorUnit":"2",
+      "NumericCode":554.0,
+      "WithdrawalDate":null
+   },
+   {  
       "AlphabeticCode":"NIO",
       "Currency":"Cordoba Oro",
       "Entity":"NICARAGUA",
@@ -1384,19 +1328,19 @@
       "WithdrawalDate":null
    },
    {  
+      "AlphabeticCode":"NZD",
+      "Currency":"New Zealand Dollar",
+      "Entity":"NIUE",
+      "MinorUnit":"2",
+      "NumericCode":554.0,
+      "WithdrawalDate":null
+   },
+   {  
       "AlphabeticCode":"AUD",
       "Currency":"Australian Dollar",
       "Entity":"NORFOLK ISLAND",
       "MinorUnit":"2",
       "NumericCode":36.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"NORTHERN MARIANA ISLANDS (THE)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  
@@ -1424,14 +1368,6 @@
       "WithdrawalDate":null
    },
    {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"PALAU",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
       "AlphabeticCode":null,
       "Currency":"No universal currency",
       "Entity":"PALESTINE, STATE OF",
@@ -1445,14 +1381,6 @@
       "Entity":"PANAMA",
       "MinorUnit":"2",
       "NumericCode":590.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"PANAMA",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  
@@ -1488,6 +1416,14 @@
       "WithdrawalDate":null
    },
    {  
+      "AlphabeticCode":"NZD",
+      "Currency":"New Zealand Dollar",
+      "Entity":"PITCAIRN",
+      "MinorUnit":"2",
+      "NumericCode":554.0,
+      "WithdrawalDate":null
+   },
+   {  
       "AlphabeticCode":"PLN",
       "Currency":"Zloty",
       "Entity":"POLAND",
@@ -1501,14 +1437,6 @@
       "Entity":"PORTUGAL",
       "MinorUnit":"2",
       "NumericCode":978.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"PUERTO RICO",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  
@@ -1872,19 +1800,19 @@
       "WithdrawalDate":null
    },
    {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"TIMOR-LESTE",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
       "AlphabeticCode":"XOF",
       "Currency":"CFA Franc BCEAO",
       "Entity":"TOGO",
       "MinorUnit":"0",
       "NumericCode":952.0,
+      "WithdrawalDate":null
+   },
+   {  
+      "AlphabeticCode":"NZD",
+      "Currency":"New Zealand Dollar",
+      "Entity":"TOKELAU",
+      "MinorUnit":"2",
+      "NumericCode":554.0,
       "WithdrawalDate":null
    },
    {  
@@ -1928,14 +1856,6 @@
       "WithdrawalDate":null
    },
    {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"TURKS AND CAICOS ISLANDS (THE)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
       "AlphabeticCode":"AUD",
       "Currency":"Australian Dollar",
       "Entity":"TUVALU",
@@ -1973,22 +1893,6 @@
       "Entity":"UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)",
       "MinorUnit":"2",
       "NumericCode":826.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"UNITED STATES MINOR OUTLYING ISLANDS (THE)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"UNITED STATES OF AMERICA (THE)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  
@@ -2045,22 +1949,6 @@
       "Entity":"VIET NAM",
       "MinorUnit":"0",
       "NumericCode":704.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"VIRGIN ISLANDS (BRITISH)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
-      "WithdrawalDate":null
-   },
-   {  
-      "AlphabeticCode":"USD",
-      "Currency":"US Dollar",
-      "Entity":"VIRGIN ISLANDS (U.S.)",
-      "MinorUnit":"2",
-      "NumericCode":840.0,
       "WithdrawalDate":null
    },
    {  

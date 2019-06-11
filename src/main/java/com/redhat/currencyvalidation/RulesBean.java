@@ -1,9 +1,9 @@
 package com.redhat.currencyvalidation;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.StringTokenizer;
+import java.util.concurrent.ConcurrentHashMap;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -26,7 +26,7 @@ import com.myspace.currencyrules.CurrentCheckResult;
 
 
 public class RulesBean {
-	static Map<String, String> currencyMap = new HashMap<String, String>(500);
+	static Map<String, String> currencyMap = new ConcurrentHashMap<String, String>(500);
 	static String FORMAT = "{ \"TransId\": \"%s\":, \"Currency\" : \"%s\", \"Amount\" : %d }";
 	
 	final static String G = "com.myspace";
@@ -75,7 +75,7 @@ public class RulesBean {
     
 	public void setCurrencyMap(String content) {
 		JSONArray array = new JSONArray(content);
-		Map<String, String> map = new HashMap<String, String>(500);
+		Map<String, String> map = new ConcurrentHashMap<String, String>(500);
 		for (int i = 0; i < array.length(); i++) {  
 		     JSONObject obj = array.getJSONObject(i);
 
